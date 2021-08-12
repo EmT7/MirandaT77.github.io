@@ -8,7 +8,7 @@ Projects that I am starting, working on and devoping.
 *CSS
 
 ## Website
-https://https://github.com/MirandaT77/MirandaT77.github.io
+https://github.com/MirandaT77/MirandaT77.github.io
 
 ## Contribution
 Miranda T.
